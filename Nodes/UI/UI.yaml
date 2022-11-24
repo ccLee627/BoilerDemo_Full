@@ -1000,7 +1000,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Test"}
+      Value: {"LocaleId":"en-US","Text":"GHithubTest"}
     - Name: LeftMargin
       Id: g=99f5df320b0530b801f950a591053320
       Type: BaseVariableType
