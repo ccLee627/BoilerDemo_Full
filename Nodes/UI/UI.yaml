@@ -1025,6 +1025,28 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 40.0
+  - Name: Label2
+    Id: g=cbcc89ce5d6cbcbc0c89ca24ce5fec45
+    Type: Label
+    Children:
+    - Name: Text
+      Id: g=828312d7c691af87f0b4f323b2cd6272
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Label2"}
+    - Name: LeftMargin
+      Id: g=8f02ee4785032d274871de794703f89f
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 240.0
+    - Name: TopMargin
+      Id: g=466eaa671e3e85b99eb993f811e36545
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 73.0
 - Name: AlarmList
   Id: g=b25c8edb35df2acb37220b8cb1c56e4d
   Supertype: Window
